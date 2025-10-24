@@ -66,6 +66,8 @@
 ## Hosting Providers
 - [Ghost(Pro)](https://ghost.org/pricing/): Official managed hosting from the Ghost team.
 - [DigitalOcean](https://www.digitalocean.com/products/droplets/): Affordable cloud hosting that supports Ghost with easy 1-click installs.
+- [Magic Pages](https://magicpages.co/): A popular managed hosting service for Ghost with competitive pricing and built-in performance features.
+- [Pikapods](https://www.pikapods.com/): Affordable semi-managed hosting that supports Ghost with minimal setup.
 
 ## Analytics
 - [Google Analytics](https://ghost.org/integrations/google/): Official integration guide for Google Analytics.
