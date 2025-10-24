@@ -46,7 +46,6 @@
 ## Tutorials and Guides
 
 - [How-to Install Ghost on Ubuntu](https://docs.ghost.org/install/ubuntu): Step-by-step guide to install Ghost on Ubuntu.
-- [Introduction to Ghost](https://www.himpfen.com/introduction-ghost/): A look at Ghost and explore its features, benefits, and why it stands out among its competitors.
 - [Customizing Ghost Themes](https://docs.ghost.org/themes): Guide to customizing themes using Ghost's Handlebars theme templating engine.
 - [Building a Custom Ghost Theme](https://ghost.org/tutorials/essential-concepts/): Tutorial on creating your own custom theme for Ghost.
 - [Ghost API Documentation](https://docs.ghost.org/content-api): Detailed documentation on the Ghost API and its usage.
